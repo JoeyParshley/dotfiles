@@ -1,6 +1,7 @@
 *.DS_Store
 *.sw[nop]
 .bundle
+.ruby-version
 .sass-cache/
 db/*.sqlite3
 log/*.log
